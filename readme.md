@@ -2,7 +2,7 @@
 
 1. Learn shortcuts as much as you possibly can. You will make typing mistakes, which will cause bugs you have to go back and fix. Less typing means fewer typing mistakes. It's also a lot more obvious when you enter the wrong shortcut than when you miss a parenthesis.
 
-2. Command-T opns a dialog box to search for filenames in the current directory. Searching for 'ade' will match the file called 'abcdefg'. You can use '/' to specify searching through folders. If you learn one keyboard shortcut for rails, learn this one - opening app/assets/javascripts/models/comment.js by typing "command-T scripts/mod/comm" is much easier than trying to dive the folder structure.
+2. Command-T opens a dialog box to search for filenames in the current directory. Searching for 'ade' will match the file called 'abcdefg'. You can use '/' to specify searching through folders. If you learn one keyboard shortcut for rails, learn this one - opening app/assets/javascripts/models/comment.js by typing "command-T scripts/mod/comm" is much easier than trying to dive the folder structure.
 
 3. Command-control T opens a similar dialog box to search through keyboard shortcuts. This is context sensitive - if shows javascript shortcuts in a javascript file, and ruby shortcuts in a ruby file.
 
@@ -20,6 +20,6 @@
 
 10. Control-Shift-O opens a terminal window in the current directory.
 
-11. Autocompletes the current word based on the code you've written so far.
+11. ESC Autocompletes the current word based on the code you've written so far.
 
 12. Ruby's # snippet and `# =>` marker. It's very, very useful. At the end of a line of ruby code, put in a `# =>`. Then, you can execute and update the markers with your ruby code, using the control-option-command-E shortcut. It puts what the code does right next to what the code is, which makes it much easier to reason about. Remembering things as you switch contexts is 90% of the difficulty of Angry Birds, and this chops that off at the root. Plus, fewer keystrokes.
